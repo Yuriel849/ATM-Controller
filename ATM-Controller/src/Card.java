@@ -1,3 +1,8 @@
+/**
+ * The class representing the card inserted by the ATM user.
+ * @author Myungjun Kim
+ * @version 2022.05.15
+ */
 public class Card implements ICard {
     private int cardNumber;
     private int CVC;

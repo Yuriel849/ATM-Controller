@@ -1,3 +1,8 @@
+/**
+ * The class representing the ATM's cash bin.
+ * @author Myungjun Kim
+ * @version 2022.05.15
+ */
 public class CashBin {
     private int cashBin;
 

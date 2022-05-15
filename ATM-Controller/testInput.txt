@@ -1,0 +1,12 @@
+insert card
+PIN verified
+check balance
+10000
+withdraw
+Balance insufficient
+deposit
+Deposited
+check balance
+22345
+quit
+Terminating

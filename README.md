@@ -1,7 +1,9 @@
-# ATM-Controller
-Implementation of a simple ATM controller.
+# ATM-Simulation
+A simulation of a real-life ATM.
 
-## This project was created using IntelliJ and can be cloned directly from GitHub.
+## "old" directory
+A shelved first attempt at a simple ATM controller.
+#### This project was created using IntelliJ and can be cloned directly from GitHub.
 Run the file ATMControllerTest in the test directory to test the ATMController class.<br>
 There are three text files (query.txt, testInput.txt, testPin.txt) that are read to simulate user input during testing.<br>
 > query.txt: A single integer value specifying the amount of money to be withdrawn or deposited. <br>
